@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+
+body{
+	background:gray;
+}
+
+#photo-heading{
+	text-align:center;
+	color:white;
+}
+
+
+
